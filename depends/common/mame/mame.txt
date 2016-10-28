@@ -1,1 +1,1 @@
-mame https://github.com/libretro/mame master
+mame https://github.com/garbear/mame master
