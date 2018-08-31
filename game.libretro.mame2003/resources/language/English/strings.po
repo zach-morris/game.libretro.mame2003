@@ -1,10 +1,10 @@
-# game.libretro.mame language file
-# Addon Name: game.libretro.mame
-# Addon id: game.libretro.mame
+# game.libretro.mame2003 language file
+# Addon Name: game.libretro.mame2003
+# Addon id: game.libretro.mame2003
 # Addon Provider: libretro
 msgid ""
 msgstr ""
-"Project-Id-Version: game.libretro.mame\n"
+"Project-Id-Version: game.libretro.mame2003\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
 "PO-Revision-Date: 2014-05-30 17:00+8\n"
@@ -21,62 +21,73 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Alternate render method"
+msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Resolution"
+msgid "MK2/MK3 DCS Speedhack"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Auto save/load states"
+msgid "Skip Disclaimer"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Boot from CLI"
+msgid "Skip Warnings"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Boot to BIOS"
+msgid "Sample Rate (KHz)"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Boot to OSD"
+msgid "Use external hiscore.dat"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Enable cheats"
+msgid "Share 2 player dial controls across one X/Y device"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Media type"
+msgid "Mouse Device"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Enable in-game mouse"
+msgid "Show Lightgun crosshair"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Read configuration"
+msgid "Right Stick to Buttons"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Save state naming"
+msgid "TATE Mode"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Softlist automatic media type"
+msgid "EXPERIMENTAL: Skip ROM verification"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Enable softlists"
+msgid "EXPERIMENTAL: Vector resolution multiplier"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Enable throttle"
+msgid "EXPERIMENTAL: Vector antialias"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Write configuration"
+msgid "Vector translucency"
 msgstr ""
 
+msgctxt "#30016"
+msgid "Vector beam width"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Vector flicker"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Vector intensity"
+msgstr ""
