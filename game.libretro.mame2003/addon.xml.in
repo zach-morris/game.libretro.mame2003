@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mame2003"
-		name="Arcade (MAME)"
+		name="Arcade (MAME 2003)"
 		version="0.78.0"
 		provider-name="Libretro">
 	<requires>
@@ -19,8 +19,8 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Arcade (MAME) 0.78</summary>
-		<description>MAME stands for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator. MAME can currently emulate several thousand different classic arcade video games from the late 1970s through the modern era.
+		<summary lang="en">Arcade (MAME 2003) 0.78</summary>
+		<description>MAME stands for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator. MAME can currently emulate several thousand different classic arcade video games from the late 1970s through the modern era.  MAME 2003 is based off of MAME version 0.78
 
 Supported files: .zip
 
